@@ -63,6 +63,3 @@ This keeps the context structured.
 
 ---
 
-## My Understanding
-
-(To be written by me)

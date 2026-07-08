@@ -42,6 +42,3 @@ ChatClient hides the implementation.
 
 ---
 
-## My Understanding
-
-(To be written by me)

@@ -53,6 +53,3 @@ Spring AI hides
 
 ---
 
-## My Understanding
-
-(To be written by me)

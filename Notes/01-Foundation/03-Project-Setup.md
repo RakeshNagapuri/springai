@@ -48,6 +48,3 @@ Controls creativity.
 
 ---
 
-## My Understanding
-
-(To be written by me)

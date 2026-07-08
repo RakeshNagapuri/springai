@@ -58,6 +58,3 @@ Returns generated text.
 
 ---
 
-## My Understanding
-
-(To be written by me)
